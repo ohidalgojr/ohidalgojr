@@ -3,7 +3,7 @@
 My name is Orlando and I'm a software developer.
 
 - 💻 I work with:
-  - JavaScript (React.js)
+  - JavaScript (React.js, Node)
   - Java (Spring boot)
   - SQL databases
 
