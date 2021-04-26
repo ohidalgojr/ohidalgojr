@@ -8,11 +8,8 @@ My name is Orlando and I'm a software developer.
   - SQL databases
 
 - 🌱 I’m currently learning:
-  - Python
-  - Data Mining
-  - Machine Learning
-  
- - 📈 Data Science enthusiast
+  - TypeScript
+  - Next.js
  
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/orlando-hidalgo-2a7200116/)
